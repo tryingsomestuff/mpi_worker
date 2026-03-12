@@ -20,4 +20,4 @@ for ((i = 0; i < count; ++i)); do
     echo "arrêt demandé, ticket: $ticket"
 done
 
-echo "$count worker(s) logiques seront désactivés au début de la prochaine itération."
+echo "$count worker(s) will be stopped at the beginning of the next iteration."
